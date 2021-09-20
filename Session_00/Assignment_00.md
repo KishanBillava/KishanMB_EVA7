@@ -44,6 +44,7 @@ lines              lines
 
 ### 5] What happens during the training of a DNN?
 When an input image is feed to the network, we have edges and gradients, these edges and gradients are combined to make textures and pattterns from which we have parts of Objects and from Parts of objects we have objects.
+
 edges and gradients  <------> textures and pattterns <------> parts of Objects <------> objects
 
 edges and gradients are building block of the vision
