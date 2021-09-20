@@ -33,14 +33,23 @@ Here in the above example we have 16 kernels, that is 16 channels in the output
 
 Example : Here negative value will diminish the pixel values and higher values will amplify the pixel values 
 
--1 -1 -1        -1  2 -1     
- 2  2  2        -1  2 -1
--1 -1 -1        -1  2 -1
+-1 -1 -1 
 
-Horizantal       Vertical 
-lines              lines 
+ 2  2  2   
+ 
+-1 -1 -1        
 
+Horizantal       
+lines              
 
+-1  2 -1 
+
+-1  2 -1
+
+-1  2 -1
+
+Vertical 
+lines 
 
 ### 5] What happens during the training of a DNN?
 When an input image is feed to the network, we have edges and gradients, these edges and gradients are combined to make textures and pattterns from which we have parts of Objects and from Parts of objects we have objects.
