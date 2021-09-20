@@ -1,5 +1,5 @@
-Assignment : 00
-You need to answer these questions as your text submission (click submit assignment button on top of this page):
+## Assignment : 00
+
 
 ### 1] What are Channels and Kernels (according to EVA)?
 combining all kernel will make a channel, kernel is a feature extractor, also know as 3x3 matrix or filter, therefore channel is a bag of similar features
